@@ -19,3 +19,8 @@ Multiple background layers with content overlays
 HTML5
 
 CSS3 (with background-attachment: fixed;, position, and z-index styling)
+
+## ✅ Conclusion
+This project shows how to build a visually appealing parallax scrolling website using just HTML and CSS.
+It’s a great starting point for beginners interested in web design and UI/UX effects, and can be further extended with animations or JavaScript enhancements.
+
