@@ -14,3 +14,8 @@ Pure HTML and CSS implementation
 Responsive layout for different screen sizes
 
 Multiple background layers with content overlays
+
+### 🛠️ Technologies Used
+HTML5
+
+CSS3 (with background-attachment: fixed;, position, and z-index styling)
