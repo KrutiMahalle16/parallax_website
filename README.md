@@ -6,3 +6,11 @@ This project, parallax_website, demonstrates how to create a stunning parallax s
 
 ### 🎯 Project Goal
 To implement a parallax effect without JavaScript — using only HTML and CSS — and showcase how this visual technique enhances the user experience with minimal code.
+### 📌 Features
+Smooth parallax scrolling sections
+
+Pure HTML and CSS implementation
+
+Responsive layout for different screen sizes
+
+Multiple background layers with content overlays
